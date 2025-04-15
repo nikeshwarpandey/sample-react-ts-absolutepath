@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+https://codesandbox.io/p/github/nikeshwarpandey/sample-react-ts-absolutepath/main?import=true
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
